@@ -15,5 +15,6 @@ public class HelloFromAngelie {
         HelloFromAngelie hello = new HelloFromAngelie();
         hello.selfIntro();
         hello.guestIntro("Matthew Bates");
+        hello.guestIntro("Israel Villalobos");
     }
 }
